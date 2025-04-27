@@ -18,12 +18,13 @@ you can combine them like -vn or -nv
 
 --help → show how to use it
 
-Notes
-The search doesn't care about big or small letters (case-insensitive).
+Notes:
 
-If the file doesn't exist, it will give an error.
+1-The search doesn't care about big or small letters (case-insensitive).
 
-If you use --help, it will show you how to use the script.
+2-If the file doesn't exist, it will give an error.
+
+3-If you use --help, it will show you how to use the script.
 
 That's it.
 Nothing complicated.
